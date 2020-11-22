@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EC7D-3FD3
+
+ Directory of C:\Users\Jerry\Documents\javaFolder
+
+11/21/2020  10:55 PM    <DIR>          .
+11/21/2020  10:55 PM    <DIR>          ..
+11/21/2020  10:55 PM                 0 index.txt
+11/21/2020  10:54 PM               900 Morning.class
+11/21/2020  10:28 PM               149 Morning.java
+               3 File(s)          1,049 bytes
+               2 Dir(s)  43,376,250,880 bytes free
